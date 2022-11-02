@@ -10,7 +10,7 @@ In this project, I want to compare time series analysis with FB prophet and trad
 - Prophet
 - ARIMA
 - Simple Exponential Smoothing
-- Logistic Model
+- Linear Model
 
 ## Dataset
 
