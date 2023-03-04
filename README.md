@@ -16,3 +16,7 @@ In this project, I want to compare time series analysis with FB prophet and trad
 
  - Yahoo Finance API
 
+ ## Blog
+
+ - [Medium Blog (Turkish)](https://medium.com/@furkaneneseren/fb-prophet-ve-geleneksel-y%C3%B6ntemler-ile-zaman-serisi-analizi-1-prophet-1696527cea88)
+
